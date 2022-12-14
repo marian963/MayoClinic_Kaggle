@@ -69,9 +69,20 @@ The task in this challenge is to identify the origins of blood clot.
 
 - csv files:
 
-  - train.csv: 17.9 kB (754 image_id, 634 patient_id, with 73% CE and 27% LAA labels)
+  - train.csv: (754, 5), 17.9 kB (754 image_id, 634 patient_id, with 73% CE and 27% LAA labels)
+  - test.csv: (4, 4), 124 B (4 image_id, 4 patient_id)
+  - other.csv: (396, 5), 11.27 kB
 
-  - test.csv: 124 B (4 image_id, 4 patient_id)
+
+![PLOT](https://user-images.githubusercontent.com/98235033/207663692-58dfccc5-073c-4c5c-9698-83abb1679c73.png)
+
+
+
+
+![CENTERS](https://user-images.githubusercontent.com/98235033/207663816-9ce27f83-450a-4d68-b4c2-bbd6ab6834a2.png)
+
+
+
 
 ### Training:
 
