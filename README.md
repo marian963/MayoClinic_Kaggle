@@ -6,13 +6,13 @@ https://www.kaggle.com/competitions/mayo-clinic-strip-ai/overview
 
 ## Stroke:
 
-### It happens in two ways:
+#### It happens in two ways:
 
 - Ischemic Stroke: a blocked artery can cut off blood to an area of the brain
 
 - Hemorrhagic Stroke: blood vessel can leak and burst, so the blood spills into the brain tissues or surrounding the brain.
 
-### Who have a higher risk of stroke?
+#### Who have a higher risk of stroke?
 
 - Age of 55 and older
 
@@ -42,7 +42,7 @@ https://www.kaggle.com/competitions/mayo-clinic-strip-ai/overview
 
 - Heart disease
 
-### Symptoms:
+#### Symptoms:
 
 - Trouble speaking or comprehending
 
@@ -65,7 +65,7 @@ The task in this challenge is to identify the origins of blood clot.
 
 ## Summary of Workdone
 
-### Data:
+#### Data:
 
 - csv files:
 
@@ -76,13 +76,13 @@ The task in this challenge is to identify the origins of blood clot.
 
 
 
-### Training:
+#### Training:
 
 I couldn't finish training part because I couldn't download the image datas. The total size of the data is 395.36 GB.
 I tried to take the data directly from kaggle. I installed Kaggle, macport, openslides, opendatasets, etc. and created API token on Kaggle to make it work, but I couldn't get it done.
 
 
-### Future Work:
+#### Future Work:
 
 I would continue this competition, train the data, and calculate the accuracy of my training.
 
