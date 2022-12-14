@@ -73,10 +73,6 @@ The task in this challenge is to identify the origins of blood clot.
 
   - test.csv: 124 B (4 image_id, 4 patient_id)
 
-#### Data Visualization:
-
-### Problem Formulation:
-
 ### Training:
 
 I couldn't finish training part because I couldn't download the image datas. The total size of the data is 395.36 GB.
@@ -87,6 +83,6 @@ I tried to take the data directly from kaggle. I installed Kaggle, macport, open
 
 I would continue this competition, train the data, and calculate the accuracy of my training.
 
-# Reference
+## Citations
 
 https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113
