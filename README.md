@@ -79,7 +79,7 @@ The task in this challenge is to identify the origins of blood clot.
 #### Training:
 
 I couldn't finish training part because I couldn't download the image datas. The total size of the data is 395.36 GB.
-I tried to take the data directly from kaggle. I installed Kaggle, macport, openslides, opendatasets, etc. and created API token on Kaggle to make it work, but I couldn't get it done.
+I tried to take the data directly from kaggle. I installed Kaggle, macport, openslides, opendatasets, etc. and created API token on Kaggle to make it work, but I couldn't get it done. I think Google Colab might work better to get the data directly from Kaggle.
 
 
 #### Future Work:
