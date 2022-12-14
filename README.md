@@ -4,15 +4,15 @@ This repository I am going to write about how I used the data from "Mayo Clinic 
 
 https://www.kaggle.com/competitions/mayo-clinic-strip-ai/overview
 
-# Stroke:
+## Stroke:
 
-## It happens in two ways:
+### It happens in two ways:
 
 - Ischemic Stroke: a blocked artery can cut off blood to an area of the brain
 
 - Hemorrhagic Stroke: blood vessel can leak and burst, so the blood spills into the brain tissues or surrounding the brain.
 
-## Who have a higher risk of stroke?
+### Who have a higher risk of stroke?
 
 - Age of 55 and older
 
@@ -42,7 +42,7 @@ https://www.kaggle.com/competitions/mayo-clinic-strip-ai/overview
 
 - Heart disease
 
-## Symptoms:
+### Symptoms:
 
 - Trouble speaking or comprehending
 
@@ -58,12 +58,12 @@ https://www.kaggle.com/competitions/mayo-clinic-strip-ai/overview
 
 
 
-# Overview
+## Overview
 
 The task in this challenge is to identify the origins of blood clot.
 
 
-# Summary of Workdone
+## Summary of Workdone
 
 ### Data:
 
