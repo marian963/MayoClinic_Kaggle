@@ -74,20 +74,12 @@ The task in this challenge is to identify the origins of blood clot.
   - other.csv: (396, 5), 11.27 kB
 
 
-![PLOT](https://user-images.githubusercontent.com/98235033/207663692-58dfccc5-073c-4c5c-9698-83abb1679c73.png)
-
-
-
-
-![CENTERS](https://user-images.githubusercontent.com/98235033/207663816-9ce27f83-450a-4d68-b4c2-bbd6ab6834a2.png)
-
-
 
 
 ### Training:
 
 I couldn't finish training part because I couldn't download the image datas. The total size of the data is 395.36 GB.
-I tried to take the data directly from kaggle. I installed Kaggle, macport, openslides, opendatasets, etc. to make it work, but I couldn't get it to work.
+I tried to take the data directly from kaggle. I installed Kaggle, macport, openslides, opendatasets, etc. and created API token on Kaggle to make it work, but I couldn't get it done.
 
 
 ### Future Work:
