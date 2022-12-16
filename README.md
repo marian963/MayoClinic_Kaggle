@@ -60,7 +60,7 @@ https://www.kaggle.com/competitions/mayo-clinic-strip-ai/overview
 
 ## Overview
 
-The task in this challenge is to identify the origins of blood clot.
+The task in this challenge is to identify the origins of blood clot. There are blood sample slides (images) that can be used to visualize the data. The images from train file can be used to train the data.
 
 
 ## Summary of Workdone
@@ -72,7 +72,6 @@ The task in this challenge is to identify the origins of blood clot.
   - train.csv: (754, 5), 17.9 kB (754 image_id, 634 patient_id, with 73% CE and 27% LAA labels)
   - test.csv: (4, 4), 124 B (4 image_id, 4 patient_id)
   - other.csv: (396, 5), 11.27 kB
-
 
 
 
